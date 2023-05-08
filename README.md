@@ -4,7 +4,7 @@
 - Photoshop 
 - Corel Draw
 - Adobe XD.</p>
-<p align='left'>You can view my resume <a href='https://www.figma.com/proto/0ndjhXdQ9rS0IXiCRxTbHh/CV-and-Portofolio?node-id=32%3A165&scaling=min-zoom&page-id=32%3A2 ' target=_blank><u>here</u>.</a></p>
+<p align='left'>You can view my resume <a href='https://shorturl.at/nINOY' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Abdulmuktinur alt=Abdulmuktinur /> </p>
